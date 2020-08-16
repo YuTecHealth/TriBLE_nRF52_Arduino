@@ -6,8 +6,8 @@ This repository contains the Arduino Board Support Package (BSP) for Yutech TriB
 ### Yutech nRF52 BSP via the Arduino Board Manager
 
  1. [Download and install the Arduino IDE](https://www.arduino.cc/en/Main/Software) (At least v1.6.12)
-  - Select the version of your OS.
-  - Directly press **'Just Download'** in the donate page.
+   * Select the version of your OS.
+   * Directly press **'Just Download'** in the donate page.
  2. Start the Arduino IDE
  3. Go into Preferences
   - File -> Preferences
