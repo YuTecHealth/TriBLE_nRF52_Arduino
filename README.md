@@ -34,7 +34,10 @@ This repository contains the Arduino Board Support Package (BSP) for Yutech TriB
      alt="Yutech logo by CHIEH TSOU" width="600" height=""></code>
  
  8. **(Appendix !!)** How to change language.
-  - 
+  - File -> Preferences -> Editor language
+
+   <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_5.png" align="middle"
+     alt="Yutech logo by CHIEH TSOU" width="500" height=""></code>
  
  ### Drivers **(Window 7 Only !!)**
 
