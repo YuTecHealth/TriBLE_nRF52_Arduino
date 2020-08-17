@@ -48,6 +48,7 @@ This repository contains the Arduino Board Support Package (BSP) for Yutech TriB
  ### Hardware Setting (2 methods)
 **Method 1:** Connect micro-usb on TriBLE board to USB on PC.
  -For upgrading existing bootloader
+ 
 **Method 2:** Connect J-link on TriBLE and PC by J-link device and connect micro-usb on TriBLE board to PC.
  -For burning new **or** upgrading existing bootloader
  ### Step on IDE
