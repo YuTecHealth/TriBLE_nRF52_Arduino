@@ -59,10 +59,22 @@ This repository contains the Arduino Board Support Package (BSP) for Yutech TriB
  4. - Wait about 30 sec.
  
  **For Hardware Setting Method 2**
- 1. - Select `Tools > Board > Yutech TriAnswer Boards (nRF52 Series) > Yutech TriBLE nRF52840`
- 2. - Select `Tools > Programmer > J-link for TriBLE nRF52`
- 3. - Select `Tools > Burn Bootloader`
- 4. - Wait about 30 sec.
+ 1. - To use J-link, user should install the driver in [**Here.**](https://www.segger.com/downloads/jlink/)(If you)
+ 2. - Follow the step on picture.
+  
+  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_9.png" align="middle"
+    alt="Yutech logo" width="750" height=""></code>
+    
+ 3. - Install the driver.
+ 
+   <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_10.png" align="middle"
+    alt="Yutech logo" width="500" height=""></code>
+    
+ 4. - Open **Arduino** IDE.
+ 5. - Select `Tools > Board > Yutech TriAnswer Boards (nRF52 Series) > Yutech TriBLE nRF52840`
+ 6. - Select `Tools > Programmer > J-link for TriBLE nRF52`
+ 7. - Select `Tools > Burn Bootloader`
+ 8. - Wait about 30 sec.
  
  **Success Burning image**
  
