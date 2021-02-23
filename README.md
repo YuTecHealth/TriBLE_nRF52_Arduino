@@ -48,6 +48,11 @@ This repository contains the Arduino Board Support Package (BSP) for Yutech TriB
    
  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_11.png" align="middle"
  alt="Yutech logo" width="500" height=""></code>
+ 
+ 1. Delete this folder "C:\Users\[username]\AppData\Local\Arduino15\cache".
+ 2. Delete this folder "C:\Users\[username]\AppData\Local\Arduino15\packages\Yutech".
+ 3. Delete this file   "C:\Users\[username]\AppData\Local\Arduino15\package_Yutech_index.json".
+ 4. Follow the Step 6~7 above to re-install the BSP.
 
  ## Bootloader Update
  ### Hardware Setting (2 methods)
