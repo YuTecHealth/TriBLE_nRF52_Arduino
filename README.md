@@ -69,7 +69,7 @@ This repository contains the Arduino Board Support Package (BSP) for Yutech TriB
  4. - Wait about 30 sec.
  
  **For Hardware Setting Method 2**
- 1. - To use J-link, user should install the driver in [**Here.**](https://www.segger.com/downloads/jlink/)(If you)
+ 1. - To use J-link, user should install the driver in [**Here.**](https://www.segger.com/downloads/jlink/)
  2. - Follow the step on picture.
   
   <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_9.png" align="middle"
