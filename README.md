@@ -93,7 +93,11 @@ This repository contains the Arduino Board Support Package (BSP) for Yutech TriB
     <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_13.png" align="middle"
     alt="Yutech logo" width="500" height=""></code>
  
- 9. - Wait about 30 sec.
+ 9. - Wait about 20~30 sec. It means success if logs in the following picture are shown. 
+ 
+     <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_14.png" align="middle"
+    alt="Yutech logo" width="500" height=""></code>
+ 
  
  **Success Burning image**
  
