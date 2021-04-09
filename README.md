@@ -70,7 +70,7 @@ This repository contains the Arduino Board Support Package (BSP) for Yutech TriB
  
   **Success Burning image**
  
- <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_6.png" align="middle"
+ <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_14.png" align="middle"
     alt="Yutech logo" width="500" height=""></code>
  
  **For Hardware Setting Method 2**
@@ -100,14 +100,11 @@ This repository contains the Arduino Board Support Package (BSP) for Yutech TriB
  
  9. - Wait about 20~30 sec. 
  
-  **Success Burning image**
+ **Success Burning image**
  
-    <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_14.png" align="middle"
+ <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_14.png" align="middle"
     alt="Yutech logo" width="500" height=""></code>
     
-	
-	
-	
 ## TriBLE Demo Code
  ### Hardware Setting Step
  1. - Install BSP
