@@ -70,7 +70,7 @@ This repository contains the Arduino Board Support Package (BSP) for Yutech TriB
  
   **Success Burning image**
  
- <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_11.png" align="middle"
+ <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_6.png" align="middle"
     alt="Yutech logo" width="500" height=""></code>
  
  **For Hardware Setting Method 2**
