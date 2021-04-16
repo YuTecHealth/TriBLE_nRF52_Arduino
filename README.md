@@ -56,9 +56,10 @@ This repository contains the Arduino Board Support Package (BSP) for Yutech TriB
  ### Step on IDE
  **For Hardware Setting Method 1**
  1. - Select `Tools > Board > Yutech TriAnswer Boards (nRF52 Series) > Yutech TriBLE nRF52840`
- 2. - Select `Tools > Programmer > DFU for TriBLE nRF52`
- 3. - Select `Tools > Burn Bootloader`
- 4. - Wait about 20~30 sec.
+ 2. - Select `Tools > Port > COMXX (Yutech TriBLE nRF52840)`
+ 3. - Select `Tools > Programmer > DFU for TriBLE nRF52`
+ 4. - Select `Tools > Burn Bootloader`
+ 5. - Wait about 20~30 sec.
  
   **Success Burning image**
  
@@ -84,13 +85,14 @@ This repository contains the Arduino Board Support Package (BSP) for Yutech TriB
  
  5. - Open **Arduino** IDE.
  6. - Select `Tools > Board > Yutech TriAnswer Boards (nRF52 Series) > Yutech TriBLE nRF52840`
- 7. - Select `Tools > Programmer > J-link for TriBLE nRF52`
- 8. - Select `Tools > Burn Bootloader` & Press `Accept`
+ 7. - Select `Tools > Port > COMXX (Yutech TriBLE nRF52840)`
+ 8. - Select `Tools > Programmer > J-link for TriBLE nRF52`
+ 9. - Select `Tools > Burn Bootloader` & Press `Accept`
  
     <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_13.png" align="middle"
     alt="Yutech logo" width="500" height=""></code>
  
- 9. - Wait about 20~30 sec. 
+ 10. - Wait about 20~30 sec. 
  
  **Success Burning image**
  
