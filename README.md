@@ -41,7 +41,7 @@ This repository contains the Arduino Board Support Package (BSP) for Yutech TriB
  
  ### Drivers **(Window 7 Only !!)**
 
-- [Yutech board driver for win 7](https://github.com/YuTecHealth/BoardDriver/blob/master/YuTech_drivers_0.0.0.1.exe?raw=true) is required for USB to Serial when using TriBLE in **win 7**. 
+- [Yutech board driver for win 7](https://github.com/YuTecHealth/BoardDriver/blob/master/YuTech_drivers_0.0.0.2.exe?raw=true) is required for USB to Serial when using TriBLE in **win 7**. 
 - [More information about driver](https://github.com/YuTecHealth/BoardDriver)
 
  ### If you have problem on BSP version update, please follow the step below.
