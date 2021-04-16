@@ -104,8 +104,9 @@ This repository contains the Arduino Board Support Package (BSP) for Yutech TriB
  1. - Install BSP
  2. - Open IDE
  3. - Select `Tools > Programmer > TriBLE Firm. Meta by Hsin`
- 4. - Select `Tools > Burn Bootloader`
- 5. - Wait about 30 sec.
+ 4. - Select `Tools > Port > COMXX (Yutech TriBLE nRF52840)`
+ 5. - Select `Tools > Burn Bootloader`
+ 6. - Wait about 30 sec.
    
  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_7.png" align="middle"
     alt="Yutech logo" width="500" height=""></code>
