@@ -129,6 +129,13 @@ This repository contains the Arduino Board Support Package (BSP) for Yutech TriB
  
  2. Don't remove your device and re-do Step 4~6 of **TriBLE Demo Code - Hardware Setting Step**.
  
+ ### If you have problem on Compile/Upload in IDE just like the following picture....
+ 
+ <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_16.png" align="middle"
+ alt="Yutech logo" width="500" height=""></code>
+ 
+ 1. Please download the previous Arduino IDE version. ([**1.8.11**](https://downloads.arduino.cc/arduino-1.8.11-windows.exe) is recommended !!!!)
+ 
  ### If you have problem on BSP version update, please follow the step below.
    
  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_11.png" align="middle"
