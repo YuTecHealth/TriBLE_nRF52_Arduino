@@ -110,7 +110,14 @@ This repository contains the Arduino Board Support Package (BSP) for Yutech TriB
  
  4. - Select `Tools > Port > COMXX (Yutech TriBLE nRF52840)`
  5. - Select `Tools > Burn Bootloader`
- 6. - Wait about 5~10 sec, and it will jump out the following commend.
+ 6. - Wait about 5~10 sec, if jump out the following commends, it's means no success, please follow the following steps.
+ 
+ <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_15.png" align="middle"
+ alt="Yutech logo" width="500" height=""></code>
+ 
+ 7. - Select `Tools > Port > COMYY (Yutech TriBLE nRF52840)` **(YY is not equal to XX)**
+ 8. - Select `Tools > Burn Bootloader`
+ 9. - Wait about 10~30 sec, it's means **SUCCESS** if the following commends are shown.
    
 
  
