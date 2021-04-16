@@ -23,7 +23,7 @@ This repository contains the Arduino Board Support Package (BSP) for Yutech TriB
  5. Restart the Arduino IDE
  6. Open the Boards Manager
   - Tools -> Board: "XXXXXXXXX" -> Board Manager
-  - Type "Yutech" and you can find **"Yutech nRF52 by Yutech"** to install the BSP.
+  - Type "Yutech" and you can find **"Yutech nRF52 by Yutech"** to install the BSP. (Please install **latest version 0.1.9**)
   
     <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_3.png" align="middle"
      alt="Yutech logo" width="600" height=""></code>
@@ -44,15 +44,7 @@ This repository contains the Arduino Board Support Package (BSP) for Yutech TriB
 - [Yutech board driver for win 7](https://github.com/YuTecHealth/BoardDriver/blob/master/YuTech_drivers_0.0.0.2.exe?raw=true) is required for USB to Serial when using TriBLE in **win 7**. 
 - [More information about driver](https://github.com/YuTecHealth/BoardDriver)
 
- ### If you have problem on BSP version update, please follow the step below.
-   
- <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_11.png" align="middle"
- alt="Yutech logo" width="500" height=""></code>
- 
- 1. Delete this folder "C:\Users\[username]\AppData\Local\Arduino15\cache".
- 2. Delete this folder "C:\Users\[username]\AppData\Local\Arduino15\packages\Yutech".
- 3. Delete this file   "C:\Users\[username]\AppData\Local\Arduino15\package_Yutech_index.json".
- 4. Follow the Step 6~7 above to re-install the BSP.
+
 
  ## Bootloader Update
  ### Hardware Setting (2 methods)
@@ -123,4 +115,15 @@ This repository contains the Arduino Board Support Package (BSP) for Yutech TriB
  
  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_8.png" align="middle"
     alt="Yutech logo" width="1000" height=""></code>
+	
+## FAQ
+ ### If you have problem on BSP version update, please follow the step below.
+   
+ <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_11.png" align="middle"
+ alt="Yutech logo" width="500" height=""></code>
+ 
+ 1. Delete this folder "C:\Users\[username]\AppData\Local\Arduino15\cache".
+ 2. Delete this folder "C:\Users\[username]\AppData\Local\Arduino15\packages\Yutech".
+ 3. Delete this file   "C:\Users\[username]\AppData\Local\Arduino15\package_Yutech_index.json".
+ 4. Follow the Step 6~7 of **BSP Installation** to re-install the BSP.
 
