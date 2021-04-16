@@ -133,7 +133,7 @@ This repository contains the Arduino Board Support Package (BSP) for Yutech TriB
  
  1. Please install the driver. [Yutech board driver for win 7](https://github.com/YuTecHealth/BoardDriver/blob/master/YuTech_drivers_0.0.0.2.exe?raw=true)
  2. Commonly, there will be a long waiting time for COM-Port search (about 1~2 mins) when it is used at the first time.
- 3. Maybe, you will encounter another long waiting time for COM-Port search when you solve Q1. (Don't remove your device from PC, JUST WAIT.)
+ 3. Maybe, you will encounter another long waiting time for COM-Port search when you solve Q1. **(Don't remove your device from PC, JUST WAIT !!!!!!)**
  
  ### Q3 If you have problem on Compile/Upload in IDE just like the following picture....
  
