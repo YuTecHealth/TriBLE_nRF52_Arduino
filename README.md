@@ -47,6 +47,27 @@ This repository contains the Arduino Board Support Package (BSP) for Yutech TriB
 
  ## How to **UPLOAD** your codes
 
+ 1. Make your own codes.
+ 2. Connect your **TriBLE** with your PC.
+ 3. - Select `Tools > Board > Yutech TriAnswer Boards (nRF52 Series) > Yutech TriBLE nRF52840`
+ 
+ <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_4.png" align="middle"
+ alt="Yutech logo" width="600" height=""></code>
+ 
+ 4. - Select `Tools > Port > COMXX (Yutech TriBLE nRF52840)`
+ 
+ <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_18.png" align="middle"
+ alt="Yutech logo" width="500" height=""></code>
+ 
+ 5. - Select `Tools > Programmer > DFU for TriBLE nRF52`
+ 
+ <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_21.png" align="middle"
+ alt="Yutech logo" width="500" height=""></code>
+ 
+ 6. Press **=>** (Compile + Upload) (or press **V** (Compile), then Press **=>** (Upload)).
+ 
+<code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_20.png" align="middle"
+alt="Yutech logo" width="600" height=""></code>
 
  ## Bootloader Update
  ### Hardware Setting (2 methods)
