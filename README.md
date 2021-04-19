@@ -141,7 +141,7 @@ This repository contains the Arduino Board Support Package (BSP) for Yutech TriB
 ## FAQ
  ### Q1 -> If you have problem on TriBLE Demo Code....
   
- 1. Please check whether your arduino IDE have this commends after **TriBLE Demo Code - Hardware Setting Step**. 
+ 1. Please check whether your arduino IDE has the comments shown in the following figure after doing the steps in **TriBLE Demo Code - Hardware Setting Step**.
  
  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_15.png" align="middle"
  alt="Yutech logo" width="500" height=""></code>
