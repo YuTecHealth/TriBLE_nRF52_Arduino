@@ -45,6 +45,8 @@ This repository contains the Arduino Board Support Package (BSP) for Yutech TriB
 - [More information about driver](https://github.com/YuTecHealth/BoardDriver)
 
 
+ ## How to **UPLOAD** your codes
+
 
  ## Bootloader Update
  ### Hardware Setting (2 methods)
