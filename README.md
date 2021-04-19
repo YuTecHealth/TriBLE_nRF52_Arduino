@@ -65,7 +65,9 @@ This repository contains the Arduino Board Support Package (BSP) for Yutech TriB
  alt="Yutech logo" width="500" height=""></code>
  
  6. Press <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_upload.png" align="middle"
-alt="Yutech logo" height="20" height=""></code> (Compile + Upload) (or press **V** (Compile), then press **=>** (Upload)).
+alt="Yutech logo" height="18" height=""></code> (Compile + Upload) (or press <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_V.png" align="middle"
+alt="Yutech logo" height="18" height=""></code> (Compile), then press <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_upload.png" align="middle"
+alt="Yutech logo" height="18" height=""></code> (Upload)).
  
 <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_20.png" align="middle"
 alt="Yutech logo" width="600" height=""></code>
