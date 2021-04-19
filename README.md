@@ -72,6 +72,11 @@ alt="Yutech logo" height="18" height=""></code> (Upload)).
 <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_20.png" align="middle"
 alt="Yutech logo" width="600" height=""></code>
 
+ **Upload SUCCESS 👋**
+ 
+ <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_22.png" align="middle"
+    alt="Yutech logo" width="500" height=""></code>
+
  ## Bootloader Update
  ### Hardware Setting (2 methods)
 **Method 1:** Connect micro-usb on TriBLE board to USB on PC.
