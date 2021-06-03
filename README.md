@@ -4,18 +4,18 @@ This document includes the following content:
 	
  2. **[As a developer]** Basic information you need to know about the TriBLE as a micro-controller.
  
-    [**a. TriBLE hardware description**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/tree/test_susu#trible-hardware-description)
+    [**a. TriBLE hardware description**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/tree/susu#trible-hardware-description)
 	
-	[**b. Develop with TriBLE nRF52 series on Arduino IDE**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/tree/test_susu#develope-with-trible-nrf52-series-on-arduino-ide)
+	[**b. Develop with TriBLE nRF52 series on Arduino IDE**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/tree/susu#develope-with-trible-nrf52-series-on-arduino-ide)
 	
-	[**c. How to UPLOAD your codes**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/tree/test_susu#how-to-upload-your-codes)
+	[**c. How to UPLOAD your codes**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/tree/susu#how-to-upload-your-codes)
 	
-	[**d. Renew Bootloader**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/tree/test_susu#renew-bootloader)
- 3. **[As a user]** [Using the **Factory Settings** to get the data easily with TriAnswer child/sensor boards.](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/tree/test_susu#trible-default-firmwares--apps)
+	[**d. Renew Bootloader**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/tree/susu#renew-bootloader)
+ 3. **[As a user]** [Using the **Factory Settings** to get the data easily with TriAnswer child/sensor boards.](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/tree/susu#trible-default-firmwares--apps)
  <!--
     [**TriBLE Demo Code**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino_test/tree/test_susu#trible-demo-code)
  -->
- 4. [Frequently asked questions **(FAQ)**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/tree/test_susu#faq)
+ 4. [Frequently asked questions **(FAQ)**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/tree/susu#faq)
  <!--
     [**FAQ**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino_test/tree/test_susu#faq)
  -->
@@ -202,7 +202,7 @@ alt="Yutech logo" width="600" height=""></code>
  
  ### Firmware setting steps
  
- 1. [**Install BSP**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/tree/test_susu#bsp-installation)
+ 1. [**Install BSP**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/tree/susu#bsp-installation)
  2. Launch Arduino IDE
  3. Select `Tools > Programmer > TriAnswer BLE FW - Ver.H` (for wireless communication) or `TriAnswer UART FW - Ver.S` (for wired communication)
  
@@ -314,5 +314,5 @@ alt="Yutech logo" width="200" height=""></code>
  1. Delete this folder "C:\Users\[username]\AppData\Local\Arduino15\cache".
  2. Delete this folder "C:\Users\[username]\AppData\Local\Arduino15\packages\Yutech".
  3. Delete this file   "C:\Users\[username]\AppData\Local\Arduino15\package_Yutech_index.json".
- 4. Follow the Step 6~7 of [**BSP Installation**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/tree/test_susu#bsp-installation) to re-install the BSP.
+ 4. Follow the Step 6~7 of [**BSP Installation**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/tree/susu#bsp-installation) to re-install the BSP.
 
