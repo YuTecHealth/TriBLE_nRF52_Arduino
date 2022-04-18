@@ -242,7 +242,7 @@ alt="Yutech logo" width="200" height=""></code>
 	  - **iOS:**  App Store > Search [**TriBLE**](https://apps.apple.com/tw/app/trible/id1532572637) and download <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/TriAnswer_iOS_download.png" align="middle" 
 alt="Yutech logo" width="200" height=""></code>
 	  
-	  - **PC:** Click [here](https://drive.google.com/file/d/1esLoV58BNsdRx2_7j5OUfuSvfAFCWPrR/view?usp=sharing)
+	  - **PC:** Click [here](https://drive.google.com/file/d/1zl-DEultRcGqctC-qeT3eFK8n2D576jf/view?usp=sharing)
 	
  2. Power on TriBLE
  3. Launch the App you want to use and follow the guidelines in [video](https://www.youtube.com/watch?v=2cSzfthJ7Kk).
