@@ -1,12 +1,7 @@
-# Firmware
-
 This document includes the following content:
 
-3. **[As a user]** [Using the **Factory Settings** to get the data easily with TriAnswer child/sensor boards.](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#trible-default-firmwares--apps)
- <!--
-    [**TriBLE Demo Code**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino_test/tree/test_susu#trible-demo-code)
- -->
- 
+ 1. [Brief introduction of **TriAnswer**](https://www.youtube.com/watch?v=sQcyQJgb_so) and [how to purchase **TriAnswer**](https://www.yutechealth.com/trianswer_en.html).
+	
  2. **[As a developer]** Basic information you need to know about the TriBLE as a micro-controller.
  
     [**a. TriBLE hardware description**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#trible-hardware-description)
@@ -15,14 +10,102 @@ This document includes the following content:
 	
 	[**c. How to UPLOAD your codes**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#how-to-upload-your-codes)
 	
-	[**d. Restore Bootloader**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#renew-bootloader)
- 
+	[**d. Renew Bootloader**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#renew-bootloader)
+ 3. **[As a user]** [Using the **Factory Settings** to get the data easily with TriAnswer child/sensor boards.](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#trible-default-firmwares--apps)
+ <!--
+    [**TriBLE Demo Code**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino_test/tree/test_susu#trible-demo-code)
+ -->
  4. [Frequently asked questions **(FAQ)**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#faq)
  <!--
     [**FAQ**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino_test/tree/test_susu#faq)
  -->
+## TriBLE hardware description 
+ 1. Pin configuration
+  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/Pin_config.png" align="middle"
+  alt="Yutech logo" width="900" height=""></code>
+ 2. Pin function discriptions
+  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/Pin_func.png" align="middle"
+  alt="Yutech logo" width="700" height=""></code>
+
+## Develope with TriBLE nRF52 series on Arduino IDE
+This repository contains the Arduino Board Support Package (**BSP**) for Yutech TriBLE nRF52 series
+
+
+## BSP Installation
+### Install Yutech nRF52 BSP via Arduino Board Manager
+
+ 1. [Download and install the Arduino IDE](https://www.arduino.cc/en/Main/Software) (At least v1.6.12)
+   * Select the version of your OS.
+   * Directly press **'Just Download'** in the donate page.
+   
+   <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_1.png" align="middle"
+     alt="Yutech logo" width="500" height=""></code>
+     
+ 2. Start the Arduino IDE
+ 3. Go into Preferences
+  - File -> Preferences
+ 4. Add https://raw.githubusercontent.com/YuTecHealth/silver-bassoon/master/package_Yutech_index.json as an 'Additional Board Manager URL'
  
+    <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_2.png" align="middle"
+     alt="Yutech logo" width="600" height=""></code>
  
+ 5. Restart the Arduino IDE
+ 6. Select the Boards Manager
+  - Tools -> Board: "XXXXXXXXX" -> Board Manager
+  - Type "Yutech" and you can find **"Yutech nRF52 by Yutech"** to install the BSP. (Please install **latest version 0.2.1**)
+  
+    <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_3.png" align="middle"
+     alt="Yutech logo" width="600" height=""></code>
+  
+ 7. Once the BSP is installed, select **'Yutech TriAnswer Boards (nRF52 Series)'** from the **Tools -> Board**, which will update your system config to use the right compiler and settings for the **TriBLE nRF52 Board**.
+ 
+    <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_4.png" align="middle"
+     alt="Yutech logo" width="600" height=""></code>
+ 
+ 8. **(Appendix !!)** How to change language.
+  - File -> Preferences -> Editor language
+
+   <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_5.png" align="middle"
+     alt="Yutech logo" width="500" height=""></code>
+ 
+ ### Drivers **(Window 7 Only !!)**
+
+- [Yutech board driver for win 7](https://github.com/YuTecHealth/BoardDriver/blob/master/YuTech_drivers_0.0.0.2.exe?raw=true) is needed for accessing COM port when using TriBLE in **win 7**. 
+- [More information about driver](https://github.com/YuTecHealth/BoardDriver)
+
+
+ ## How to **UPLOAD** your codes
+
+ 1. Make your own codes.
+ 2. Connect your **TriBLE** with your PC. (Recommendation: Use the USB as power source and)
+ 3. Select `Tools > Board > Yutech TriAnswer Boards (nRF52 Series) > Yutech TriBLE nRF52840`
+ 
+ <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_4.png" align="middle"
+ alt="Yutech logo" width="600" height=""></code>
+ 
+ 4. Select `Tools > Port > COMXX (Yutech TriBLE nRF52840)`
+ 
+ <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_18.png" align="middle"
+ alt="Yutech logo" width="500" height=""></code>
+ 
+ 5. Select `Tools > Programmer > DFU for TriBLE nRF52`
+ 
+ <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_21.png" align="middle"
+ alt="Yutech logo" width="500" height=""></code>
+ 
+ 6. Press <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_upload.png" align="middle"
+alt="Yutech logo" height="18" height=""></code> (Compile + Upload), or press <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_V.png" align="middle"
+alt="Yutech logo" height="18" height=""></code> (Compile), and then press <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_upload.png" align="middle"
+alt="Yutech logo" height="18" height=""></code> (Upload)).
+ 
+<code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_20.png" align="middle"
+alt="Yutech logo" width="600" height=""></code>
+
+   **Upload successfully 👋 Shows "Device programmed"**
+ 
+ <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_22.png" align="middle"
+    alt="Yutech logo" width="700" height=""></code>
+
  ## Renew Bootloader
  
  ### Hardware Setting (2 methods)
@@ -147,98 +230,6 @@ This document includes the following content:
    
  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_17.png" align="middle"
  alt="Yutech logo" width="500" height=""></code>
- 
- 
- 
- 
-## TriBLE hardware description 
- 1. Pin configuration
-  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/Pin_config.png" align="middle"
-  alt="Yutech logo" width="900" height=""></code>
- 2. Pin function discriptions
-  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/Pin_func.png" align="middle"
-  alt="Yutech logo" width="700" height=""></code>
-
-## Develope with TriBLE nRF52 series on Arduino IDE
-This repository contains the Arduino Board Support Package (**BSP**) for Yutech TriBLE nRF52 series
-
-
-## BSP Installation
-### Install Yutech nRF52 BSP via Arduino Board Manager
-
- 1. [Download and install the Arduino IDE](https://www.arduino.cc/en/Main/Software) (At least v1.6.12)
-   * Select the version of your OS.
-   * Directly press **'Just Download'** in the donate page.
-   
-   <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_1.png" align="middle"
-     alt="Yutech logo" width="500" height=""></code>
-     
- 2. Start the Arduino IDE
- 3. Go into Preferences
-  - File -> Preferences
- 4. Add https://raw.githubusercontent.com/YuTecHealth/silver-bassoon/master/package_Yutech_index.json as an 'Additional Board Manager URL'
- 
-    <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_2.png" align="middle"
-     alt="Yutech logo" width="600" height=""></code>
- 
- 5. Restart the Arduino IDE
- 6. Select the Boards Manager
-  - Tools -> Board: "XXXXXXXXX" -> Board Manager
-  - Type "Yutech" and you can find **"Yutech nRF52 by Yutech"** to install the BSP. (Please install **latest version 0.2.1**)
-  
-    <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_3.png" align="middle"
-     alt="Yutech logo" width="600" height=""></code>
-  
- 7. Once the BSP is installed, select **'Yutech TriAnswer Boards (nRF52 Series)'** from the **Tools -> Board**, which will update your system config to use the right compiler and settings for the **TriBLE nRF52 Board**.
- 
-    <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_4.png" align="middle"
-     alt="Yutech logo" width="600" height=""></code>
- 
- 8. **(Appendix !!)** How to change language.
-  - File -> Preferences -> Editor language
-
-   <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_5.png" align="middle"
-     alt="Yutech logo" width="500" height=""></code>
- 
- ### Drivers **(Window 7 Only !!)**
-
-- [Yutech board driver for win 7](https://github.com/YuTecHealth/BoardDriver/blob/master/YuTech_drivers_0.0.0.2.exe?raw=true) is needed for accessing COM port when using TriBLE in **win 7**. 
-- [More information about driver](https://github.com/YuTecHealth/BoardDriver)
-
-
- ## How to **UPLOAD** your codes
-
- 1. Make your own codes.
- 2. Connect your **TriBLE** with your PC. (Recommendation: Use the USB as power source and)
- 3. Select `Tools > Board > Yutech TriAnswer Boards (nRF52 Series) > Yutech TriBLE nRF52840`
- 
- <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_4.png" align="middle"
- alt="Yutech logo" width="600" height=""></code>
- 
- 4. Select `Tools > Port > COMXX (Yutech TriBLE nRF52840)`
- 
- <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_18.png" align="middle"
- alt="Yutech logo" width="500" height=""></code>
- 
- 5. Select `Tools > Programmer > DFU for TriBLE nRF52`
- 
- <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_21.png" align="middle"
- alt="Yutech logo" width="500" height=""></code>
- 
- 6. Press <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_upload.png" align="middle"
-alt="Yutech logo" height="18" height=""></code> (Compile + Upload), or press <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_V.png" align="middle"
-alt="Yutech logo" height="18" height=""></code> (Compile), and then press <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_upload.png" align="middle"
-alt="Yutech logo" height="18" height=""></code> (Upload)).
- 
-<code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_20.png" align="middle"
-alt="Yutech logo" width="600" height=""></code>
-
-   **Upload successfully 👋 Shows "Device programmed"**
- 
- <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_22.png" align="middle"
-    alt="Yutech logo" width="700" height=""></code>
-
- 
  
  ### App using steps
  1. Intall the APP. 
