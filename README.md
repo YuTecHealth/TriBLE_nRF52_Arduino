@@ -2,13 +2,13 @@
 
 This document includes the following content:
 
- 1. **[For a user]** [Using the **Factory Settings** to get the data easily with main board (TriBLE) and sensor boards.](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/blob/main/README.md#1-for-a-user-trible-factory-settings-and-usage)
+ 1. **[For a user]** [Using the **Factory Settings** to get the data easily with main board (TriBLE) and sensor boards.](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/blob/master/README.md#1-for-a-user-trible-factory-settings-and-usage)
 	
  2. **[For a developer]** Basic information you need to know about the TriBLE as a micro-controller.
  
-    [**A. TriBLE description**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/blob/main/README.md#a-trible-description)
+    [**A. TriBLE description**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/blob/master/README.md#a-trible-description)
 	
-	[**B. Develop with TriBLE nRF52 series on Arduino IDE**](https://github.com/YuTecHealth/test/TriBLE_nRF52_Arduino/main/README.md#b-develop-with-trible-nrf52-series-on-arduino-ide)
+	[**B. Develop with TriBLE nRF52 series on Arduino IDE**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/master/README.md#b-develop-with-trible-nrf52-series-on-arduino-ide)
 
  3. [Frequently asked questions **(FAQ)**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/blob/main/README.md#3-frequently-asked-questions-faq)
 
