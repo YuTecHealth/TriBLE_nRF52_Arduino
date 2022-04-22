@@ -60,8 +60,7 @@ This document includes the following content:
 
 
 * **E. How to change factory settings firmware to others?** (link to down usage)
-	* __a__. [**Install Arduino Board Support Package (BSP)**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino
-/blob/master/README.md#b-develop-with-trible-nrf52-series-on-arduino-ide) 
+	* __a__. [**Install Arduino Board Support Package (BSP)**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#b-develop-with-trible-nrf52-series-on-arduino-ide) 
 	* __b__. Launch Arduino IDE
 	* __c__. Select Tools > Programmer > `TriBLE Official Firmware` (for wireless communication) or `TriAnswer UART FW - Ver.S` (for wired communication) <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_7.png" align="middle"
  alt="Yutech logo" width="500" height=""></code>
@@ -193,6 +192,5 @@ alt="Yutech logo" height="18" height=""></code> (Upload)).
  1. Delete this folder "C:\Users\[username]\AppData\Local\Arduino15\cache".
  2. Delete this folder "C:\Users\[username]\AppData\Local\Arduino15\packages\Yutech".
  3. Delete this file   "C:\Users\[username]\AppData\Local\Arduino15\package_Yutech_index.json".
- 4. Follow the Step 6~7 of [**BSP Installation**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino
-/blob/master/README.md#b-develop-with-trible-nrf52-series-on-arduino-ide) to re-install the BSP.
+ 4. Follow the Step 6~7 of [**BSP Installation**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#b-develop-with-trible-nrf52-series-on-arduino-ide) to re-install the BSP.
 
