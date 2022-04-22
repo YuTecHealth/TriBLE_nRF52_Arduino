@@ -24,7 +24,7 @@ This document includes the following content:
 
      * Select sensor boards and software
           * [Sensor board:](https://www.yutechealth.com/trianswer.html) ECG、EMG、PPG、EEG、Breath、Temp
-          * [Software](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino) - iOS, Android and PC Application for Tri_BLE
+          * [Software](https://github.com/YuTecHealth/Software#software-using-steps) - iOS, Android and PC Application for Tri_BLE
      * Power on TriBLE and assemble sensor boards on it.
      * Connect TriBLE and Software then get biosignal!
 * **C. An example:**
