@@ -10,7 +10,7 @@ This document includes the following content:
 	
 	[**B. Develop with TriBLE nRF52 series on Arduino IDE**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#b-develop-with-trible-nrf52-series-on-arduino-ide)
 
- 3. [Frequently asked questions **(FAQ)**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/blob/master/README.md#3-frequently-asked-questions-faq)
+ 3. [Frequently asked questions **(FAQ)**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#3-frequently-asked-questions-faq)
 
 
 # 1. [For a user] TriBLE Factory Settings and Usage
