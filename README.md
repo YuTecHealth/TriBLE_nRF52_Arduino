@@ -8,7 +8,9 @@ This document includes the following content:
  
     [**A. TriBLE description**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#a-trible-description)
 	
-	[**B. Develop with TriBLE nRF52 series on Arduino IDE**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#b-develop-with-trible-nrf52-series-on-arduino-ide)
+	[**B. Develop with TriBLE Arduino IDE**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#b-develop-with-trible-nrf52-series-on-arduino-ide)
+	
+	[**C. TriBLE Laboratory**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#b-develop-with-trible-nrf52-series-on-arduino-ide)
 
  3. [Frequently asked questions **(FAQ)**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#3-frequently-asked-questions-faq)
 
@@ -79,12 +81,12 @@ This document includes the following content:
 
 #### **A. TriBLE description**
 
-* __a__. Pin configuration <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/Pin_config.png" align="middle"
+* __a. Pin configuration__ <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/Pin_config.png" align="middle"
   alt="Yutech logo" width="600" height=""></code>
-* __b__. Pin function discriptions <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/Pin_func.png" align="middle"
+* __b. Pin function discriptions__ <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/Pin_func.png" align="middle"
   alt="Yutech logo" width="500" height=""></code>
 
-#### **B. Develop with TriBLE nRF52 series on Arduino IDE**
+#### **B. Develop with TriBLE on Arduino IDE**
 * ___a. Environment establish___: Install Yutech nRF52 Board Support Package (**BSP**) via Arduino Board Manager
 	* I. [Download and install the Arduino IDE](https://www.arduino.cc/en/Main/Software) (At least v1.6.12)
 		* Select the version of your OS.
@@ -123,6 +125,16 @@ alt="Yutech logo" height="18" height=""></code> (Compile), and then press <code>
 alt="Yutech logo" height="18" height=""></code> (Upload)).
 	* **Upload successfully 👋 Shows "Device programmed"** <br>  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_22.png" align="middle"
     alt="Yutech logo" width="700" height=""></code>
+    
+#### **C. TriBLE Laboratory**    
+*  __a. Get started:__ [**Install Arduino BSP**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#b-develop-with-trible-nrf52-series-on-arduino-ide) and find the example code. <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/arduino_example.png" align="middle"
+    alt="Yutech logo" width="700" height=""></code>
+*  __b. Software display signal:__ 
+	* [**Android SCR Display**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#b-develop-with-trible-nrf52-series-on-arduino-ide) <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/Android_SCR1.jpg" align="middle"
+    alt="Yutech logo" width="300" height=""></code>
+	* [**Web PWA Display**](https://yutechealth.github.io/PWA/LAB5/LAB5.html) <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/PWA1.png" align="middle"
+    alt="Yutech logo" width="700" height=""></code>
+
 * __Appendix__. If you got some trouble... try to renew bootloader!!!!
 	* **Method 1:** Connect TriBLE board to PC through USB cable only.
 	* **Method 2:** Connect TriBLE board to PC through both J-Link device and USB cable. (Fatal error only) <br> --------------------------------------------------------------
