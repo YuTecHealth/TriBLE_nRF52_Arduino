@@ -6,9 +6,9 @@ This document includes the following content:
 	
  2. **[For a developer]** Basic information you need to know about the TriBLE as a micro-controller.
  
-    [**A. TriBLE description**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/blob/master/README.md#a-trible-description)
+    [**A. TriBLE description**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#a-trible-description)
 	
-	[**B. Develop with TriBLE nRF52 series on Arduino IDE**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/blob/master/README.md#b-develop-with-trible-nrf52-series-on-arduino-ide)
+	[**B. Develop with TriBLE nRF52 series on Arduino IDE**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#b-develop-with-trible-nrf52-series-on-arduino-ide)
 
  3. [Frequently asked questions **(FAQ)**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/blob/master/README.md#3-frequently-asked-questions-faq)
 
