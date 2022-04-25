@@ -49,16 +49,16 @@ This document includes the following content:
      		* Factory Settings：TriBLE Official Firmware (iOS) <--also works on PC
 	        * TriBLE Official Firmware (Android)	
      	* [Software](https://github.com/YuTecHealth/Software#software-using-steps):
-     		* iOS (TriBLE)
-     		* Android (TriAnswer SCR APP)
-	        * PC (TriAnswer TCR APP)
+     		* [iOS (TriBLE)](https://apps.apple.com/tw/app/trible/id1532572637)
+     		* [Android (TriAnswer SCR APP)](https://github.com/YuTecHealth/TriAnswer-SCR-APP/raw/main/TriAnswer_SCR_newVer_2022.apk)
+	        * [PC (TriAnswer TCR APP)](https://drive.google.com/file/d/1zl-DEultRcGqctC-qeT3eFK8n2D576jf/view?usp=sharing)
 	     		 
                 
      * For **wired** communication
      	* Firmware:
      		* TriAnswer UART FW - Ver.S
      	* [Software](https://github.com/YuTecHealth/Software#software-using-steps):
-	        * PC (TriAnswer TCR APP)
+	        * [PC (TriAnswer TCR APP)](https://drive.google.com/file/d/1zl-DEultRcGqctC-qeT3eFK8n2D576jf/view?usp=sharing)
 
 
 * **E. How to change factory settings firmware to others?** 
