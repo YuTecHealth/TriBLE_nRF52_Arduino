@@ -8,7 +8,7 @@ This document includes the following content:
  
     [**A. TriBLE description**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#a-trible-description)
 	
-	[**B. Develop with TriBLE Arduino IDE**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#b-develop-with-trible-nrf52-series-on-arduino-ide)
+	[**B. Develop with TriBLE Arduino IDE**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#2-for-developer-trible-factory-settings-and-usage)
 	
 	[**C. TriBLE Laboratory**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#c-trible-laboratory)
 
