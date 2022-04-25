@@ -2,7 +2,7 @@
 
 This document includes the following content:
 
- 1. **[For a user]** [Using the **Factory Settings** to get the data easily with main board (TriBLE) and sensor boards.](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/blob/master/README.md#1-for-a-user-trible-factory-settings-and-usage)
+ 1. **[For a user]** [Using the **Factory Settings** to get the data easily with main board (TriBLE) and sensor boards.](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#1-for-a-user-trible-factory-settings-and-usage)
 	
  2. **[For a developer]** Basic information you need to know about the TriBLE as a micro-controller.
  
