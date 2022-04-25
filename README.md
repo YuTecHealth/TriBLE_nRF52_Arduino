@@ -2,9 +2,9 @@
 
 This document includes the following content:
 
- 1. **[For a user]** [Using the **Factory Settings** to get the data easily with main board (TriBLE) and sensor boards.](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#1-for-a-user-trible-factory-settings-and-usage)
+ 1. **[For user]** [Using the **Factory Settings** to get the data easily with main board (TriBLE) and sensor boards.](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#1-for-a-user-trible-factory-settings-and-usage)
 	
- 2. **[For a developer]** Basic information you need to know about the TriBLE as a micro-controller.
+ 2. **[For developer]** Basic information you need to know about the TriBLE as a micro-controller.
  
     [**A. TriBLE description**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#a-trible-description)
 	
@@ -13,7 +13,7 @@ This document includes the following content:
  3. [Frequently asked questions **(FAQ)**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#3-frequently-asked-questions-faq)
 
 
-# 1. [For a user] TriBLE Factory Settings and Usage
+# 1. [For user] TriBLE Factory Settings and Usage
 
 * **A. TriBLE has 3 channels for connecting with sensor boards. The channel names are shown in the following figure.** 
   
@@ -75,7 +75,7 @@ This document includes the following content:
  alt="Yutech logo" width="500" height=""></code>
 
 
-# 2. [For a developer] TriBLE Factory Settings and Usage
+# 2. [For developer] TriBLE Factory Settings and Usage
 
 #### **A. TriBLE description**
 
