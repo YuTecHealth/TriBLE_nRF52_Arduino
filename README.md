@@ -59,7 +59,7 @@ This document includes the following content:
 	        * PC (TriAnswer TCR APP)
 
 
-* **E. How to change factory settings firmware to others?** (link to down usage)
+* **E. How to change factory settings firmware to others?** 
 	* __a__. [**Install Arduino Board Support Package (BSP)**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#b-develop-with-trible-nrf52-series-on-arduino-ide) 
 	* __b__. Launch Arduino IDE
 	* __c__. Select Tools > Programmer > `TriBLE Official Firmware` (for wireless communication) or `TriAnswer UART FW - Ver.S` (for wired communication) <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_7.png" align="middle"
