@@ -10,7 +10,7 @@ This document includes the following content:
 	
 	[**B. Develop with TriBLE Arduino IDE**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#b-develop-with-trible-nrf52-series-on-arduino-ide)
 	
-	[**C. TriBLE Laboratory**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#b-develop-with-trible-nrf52-series-on-arduino-ide)
+	[**C. TriBLE Laboratory**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#c-trible-laboratory)
 
  3. [Frequently asked questions **(FAQ)**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#3-frequently-asked-questions-faq)
 
@@ -130,7 +130,7 @@ alt="Yutech logo" height="18" height=""></code> (Upload)).
 *  __a. Get started:__ [**Install Arduino BSP**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#b-develop-with-trible-nrf52-series-on-arduino-ide) and find the example code. <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/arduino_example.png" align="middle"
     alt="Yutech logo" width="700" height=""></code>
 *  __b. Software display signal:__ 
-	* [**Android SCR Display**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#b-develop-with-trible-nrf52-series-on-arduino-ide) <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/Android_SCR1.jpg" align="middle"
+	* [**Android SCR Display**](https://github.com/YuTecHealth/TriAnswer-SCR-APP/raw/main/TriAnswer_SCR_newVer_2022.apk) <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/Android_SCR1.jpg" align="middle"
     alt="Yutech logo" width="300" height=""></code>
 	* [**Web PWA Display**](https://yutechealth.github.io/PWA/LAB5/LAB5.html) <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/PWA1.png" align="middle"
     alt="Yutech logo" width="700" height=""></code>
