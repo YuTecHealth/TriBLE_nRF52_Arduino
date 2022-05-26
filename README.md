@@ -173,7 +173,7 @@ alt="Yutech logo" height="18" height=""></code> (Upload)).
     
 # 3. [Frequently asked questions **(FAQ)**]
 
- ### Q1 -> If you have problem on TriBLE Default Firmwares....
+ ### Q1 -> If you have problem with TriBLE Default Firmwares....
   
  1. Please check whether your arduino IDE has the comments shown in the following figure after doing the steps in **TriBLE Default Firmwares / Apps - Firmware setting steps**.
  
@@ -182,20 +182,20 @@ alt="Yutech logo" height="18" height=""></code> (Upload)).
  
  2. Don't remove your device and re-do Step 4~6 of **TriBLE Default Firmwares / Apps - Firmware setting steps**.
  
- ### Q2 -> If you have problem on NO COM-Port in arduino IDE in win7....
+ ### Q2 -> If you have problem with MISSING COM-Port in arduino IDE in win7....
  
  1. Please install the driver. ([**Yutech board driver for win 7**](https://github.com/YuTecHealth/BoardDriver/blob/master/YuTech_drivers_0.0.0.2.exe?raw=true))
  2. Commonly, there will be a long waiting time for COM-Port search (about 1~2 mins) when it is used at the first time.
  3. Maybe, you will encounter another long waiting time for COM-Port search when you solve Q1. **(Don't remove your device from PC, JUST WAIT !!!!!!)**
  
- ### Q3 -> If you have problem on Compile/Upload in Arduino IDE just like the following picture....
+ ### Q3 -> If you have problem with Compile/Upload in Arduino IDE just like the following picture....
  
  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_16.png" align="middle"
  alt="Yutech logo" width="500" height=""></code>
  
  1. Please download the previous Arduino IDE version. ([**1.8.11**](https://downloads.arduino.cc/arduino-1.8.11-windows.exe) is recommended !!!!)
  
- ### Q4 -> If you have problem on BSP version update....
+ ### Q4 -> If you have problem with BSP version update....
  
    Shows "java.lang.NullPointerException"
  
