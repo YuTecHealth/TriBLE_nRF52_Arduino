@@ -107,7 +107,7 @@ This document includes the following content:
 		* Tools -> Board: "XXXXXXXXX" -> Board Manager
 		* Type "Yutech" and you can find **"Yutech nRF52 by Yutech"** to install the BSP. (Please install **latest version**) <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_3.png" align="middle"
      alt="Yutech logo" width="600" height=""></code>
-	* VII. Once the BSP is installed, select **'Yutech TriAnswer Boards (nRF52 Series)'** from the **Tools -> Board**, which will update your system config to the right compiler and the correct settings for the **TriBLE main Board**. Complete installation of Yutech nRF52 BSP! <br>  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_4.png" align="middle"
+	* VII. Once the BSP is installed, select **'Yutech TriAnswer Boards (nRF52 Series)'** from the **Tools -> Board**, which will update your system config to the right compiler and the correct settings for the **TriBLE main Board**. Complete installation for Yutech nRF52 BSP! <br>  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_4.png" align="middle"
      alt="Yutech logo" width="600" height=""></code>
 	* **(Appendix 1)** How to change language.
 			* File -> Preferences -> Editor language <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_5.png" align="middle"
