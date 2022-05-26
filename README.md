@@ -98,8 +98,8 @@ This document includes the following content:
 		* Select the version of your OS.
 		* Directly press **'Just Download'** in the donate page. <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_1.png" align="middle"
      alt="Yutech logo" width="300" height=""></code>
-	* II. Start the Arduino IDE
-	* III. Go into Preferences
+	* II. Start Arduino IDE
+	* III. Go to File -> Preferences
 	* IV. Add https://raw.githubusercontent.com/YuTecHealth/silver-bassoon/master/package_Yutech_index.json as an 'Additional Board Manager URL' <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_2.png" align="middle"
      alt="Yutech logo" width="600" height=""></code>
 	* V. Restart the Arduino IDE
