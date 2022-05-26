@@ -102,7 +102,7 @@ This document includes the following content:
 	* III. Go to File -> Preferences
 	* IV. Add https://raw.githubusercontent.com/YuTecHealth/silver-bassoon/master/package_Yutech_index.json as an 'Additional Board Manager URL' <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_2.png" align="middle"
      alt="Yutech logo" width="600" height=""></code>
-	* V. Restart the Arduino IDE (for linux user, please run the following command `sudo pip3 install adafruit-nrfutil` or `sudo pip install adafruit-nrfutil` in command line)
+	* V. Restart the Arduino IDE (for linux user, please run the following command `sudo pip3 install adafruit-nrfutil` or `sudo pip install adafruit-nrfutil` in command line before starting Arduino IDE)
 	* VI. Select the Boards Manager
 		* Tools -> Board: "XXXXXXXXX" -> Board Manager
 		* Type "Yutech" and you can find **"Yutech nRF52 by Yutech"** to install the BSP. (Please install **latest version**) <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_3.png" align="middle"
