@@ -41,7 +41,7 @@ This document includes the following content:
 	      <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/assembled1_en.png" align="middle"
     alt="Yutech logo" width="400" height=""></code>
 	
-     * Power on TriBLE and assemble TriECG and TriPPG on it. <br>
+     * Power on TriBLE and assemble TriECG and TriPPG to it. <br>
      	      <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/assembled2_en.png" align="middle"
     alt="Yutech logo" width="350" height=""></code>
     
