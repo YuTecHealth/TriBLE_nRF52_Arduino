@@ -1,6 +1,6 @@
 # **[TriAnswer](https://www.yutechealth.com)**
 * Biomedical Development Platform for Wearable Device [(Video)](https://www.youtube.com/watch?v=sQcyQJgb_so)
-	* [Hardware](https://www.yutechealth.com) - Three channel bluetooth main board (Tri_BLE) / biosensor board (ECG、EMG、PPG、EEG、Breath、Temp) 
+	* [Hardware](https://www.yutechealth.com) - Three channels bluetooth main board (Tri_BLE) / biosensor board (ECG、EMG、PPG、EEG、Breath、Temp) 
 	* [Firmware](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino) - Use Arduino IDE to develop or restore Tri_BLE
 	* [Software](https://github.com/YuTecHealth/Software) - iOS, Android and PC Application for Tri_BLE
 
