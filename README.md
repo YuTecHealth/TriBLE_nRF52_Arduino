@@ -23,7 +23,7 @@ This document includes the following content:
 
 # 1. [For user] TriBLE Factory Settings and Usage
 
-* **A. TriBLE has 3 channels for connecting with sensor boards. The channel names are shown in the following figure.** 
+* **A. TriBLE has 3 channels to connect with sensor boards. The channel names are shown in the following figure.** 
   
   <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/TriBLE_w_Child.png" align="middle"
     alt="Yutech logo" width="500" height=""></code>
