@@ -35,7 +35,7 @@ This document includes the following content:
           * [Software](https://github.com/YuTecHealth/Software#software-using-steps) - iOS, Android and PC Application for Tri_BLE
      * Power on TriBLE and assemble sensor boards on it.
      * Connect TriBLE and Software then get biosignal!
-* **C. An example:**
+* **C. An startup example:**
      
      * Select TriECG and TriPPG as sensore boards and choose iOS apps as Software <br>
 	      <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/assembled1_en.png" align="middle"
