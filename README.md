@@ -52,11 +52,13 @@ This document includes the following content:
 * **D. Other firmware with different case:**
      * For **wireless** communication
      	* Firmware:
-     		* Factory Settings：TriBLE Official Firmware (iOS) <--also works on PC
-	        * TriBLE Official Firmware (Android)	
+     		* Factory Settings：TriBLE Official Firmware <--works on iOS / Android / PC
+	        * TriBLE 1~10: Same as TriBLE Official Firmware with number)
+	        * TriPPG Pro Ver.K: Use for TriPPG Pro daughter module
+	        * TriBLE-YuCloth: Use for YuCloth sensor with TriResp and TriECG daughter module	
      	* [Software](https://github.com/YuTecHealth/Software#software-using-steps):
      		* [iOS (TriBLE)](https://apps.apple.com/tw/app/trible/id1532572637)
-     		* [Android (TriAnswer SCR APP)](https://github.com/YuTecHealth/TriAnswer-SCR-APP/raw/main/TriAnswer_SCR_newVer_2022.apk)
+     		* [Android (TriBLE)](https://github.com/YuTecHealth/TriAnswer-SCR-APP/raw/main/TriAnswer_SCR_newVer_2022.apk)
 	        * [PC (TriAnswer TCR APP)](https://drive.google.com/file/d/1zl-DEultRcGqctC-qeT3eFK8n2D576jf/view?usp=sharing)
 	     		 
                 
@@ -68,18 +70,21 @@ This document includes the following content:
 
 
 * **E. How to change factory settings firmware to others?** 
-	* __a__. [**Install Arduino Board Support Package (BSP)**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#b-develop-with-trible-nrf52-series-on-arduino-ide) 
-	* __b__. Launch Arduino IDE
-	* __c__. Select Tools > Programmer > `TriBLE Official Firmware` (for wireless communication) or `TriAnswer UART FW - Ver.S` (for wired communication) <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_7.png" align="middle"
+	* **YuTech TriBLE Firmware Programmer**
+		* [Download Link](https://drive.google.com/drive/folders/13cF7TCU3yyi3t1TC9Sbbl3floOsgF9st?usp=share_link)
+	* **Arduino BSP Method**
+		* __a__. [**Install Arduino Board Support Package (BSP)**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#b-develop-with-trible-nrf52-series-on-arduino-ide) 
+		* __b__. Launch Arduino IDE
+		* __c__. Select Tools > Programmer > `TriBLE Official Firmware` (for wireless communication) or `TriAnswer UART FW - Ver.S` (for wired communication) <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_7.png" align="middle"
  alt="Yutech logo" width="500" height=""></code>
-	* __d__. Select `Tools > Port > COMXX (Yutech TriBLE nRF52840)` <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_18.png" align="middle"
+		* __d__. Select `Tools > Port > COMXX (Yutech TriBLE nRF52840)` <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_18.png" align="middle"
  alt="Yutech logo" width="500" height=""></code>
-	* __e__. Select `Tools > Burn Bootloader`
-	* __f__. Wait about 5~10 sec, if jump out the following commends, it's means **UNSUCCESS**, please follow the following steps. <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_15.png" align="middle"
+		* __e__. Select `Tools > Burn Bootloader`
+		* __f__. Wait about 5~10 sec, if jump out the following commends, it's means **UNSUCCESS**, please follow the following steps. <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_15.png" align="middle"
  alt="Yutech logo" width="500" height=""></code>
-	* __g__. Select `Tools > Port > COM YY (Yutech TriBLE nRF52840)` **(YY won't be equal to XX)**
-	* __h__. Select `Tools > Burn Bootloader`
-	* __i__. Wait about 10~30 sec, it's means **SUCCESS** if the following commends are shown. <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_17.png" align="middle"
+		* __g__. Select `Tools > Port > COM YY (Yutech TriBLE nRF52840)` **(YY won't be equal to XX)**
+		* __h__. Select `Tools > Burn Bootloader`
+		* __i__. Wait about 10~30 sec, it's means **SUCCESS** if the following commends are shown. <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_17.png" align="middle"
  alt="Yutech logo" width="500" height=""></code>
 
 
