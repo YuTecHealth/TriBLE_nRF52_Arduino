@@ -166,7 +166,7 @@ Method 2: Connect TriBLE board to PC through both J-Link device and USB cable. (
 * V. Launch Arduino IDE.
 * VI. Select `Tools > Board > Yutech TriAnswer Boards (nRF52 Series) > Yutech TriBLE nRF52840`
 * VII. Select `Tools > Programmer > J-link for TriBLE nRF52`
-* VII. Select `Tools > Burn Bootloader` and press `Accept` <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_13.png" align="middle"
+* VIII. Select `Tools > Burn Bootloader` and press `Accept` <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_13.png" align="middle"
     alt="Yutech logo" width="500" height=""></code>
 * IX. Wait about 20~30 sec. 
 * **Figure of successful burning** <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_14.png" align="middle"
