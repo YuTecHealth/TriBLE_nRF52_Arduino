@@ -122,7 +122,7 @@ This document includes the following content:
 		*  [More information about driver](https://github.com/YuTecHealth/BoardDriver)
   
 * __b. **UPLOAD** and run your codes__
-	* I. Make your own codes.
+	* I. Select an example Code (`File > Examples > Examples for Yutech TriBLE nRF52840 > TriBLE Tutorial`) or make your own codes.
 	* II. Connect your **TriBLE** with your PC. (Recommendation: Use the USB as power source)
 	* III. Select `Tools > Board > Yutech TriAnswer Boards (nRF52 Series) > Yutech TriBLE nRF52840` <br>  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_4.png" align="middle"
  alt="Yutech logo" width="600" height=""></code>
