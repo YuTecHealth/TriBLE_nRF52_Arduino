@@ -28,15 +28,15 @@ This document includes the following content:
   <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/TriBLE_w_Child.png" align="middle"
     alt="Yutech logo" width="500" height=""></code>
 
-* **B. Quick steps to startup:**
+* **B. Quick steps to start-up:**
 
      * Select sensor boards and software
           * [Sensor board:](https://www.yutechealth.com/trianswer.html) ECG、EMG、PPG、EEG、Breath、Temp
           * [Software](https://github.com/YuTecHealth/Software#software-using-steps) - iOS, Android and PC Application for Tri_BLE
      * Power on TriBLE and assemble sensor boards on it.
      * Connect TriBLE and Software then get biosignal!
-* **C. An startup example:**
-     
+* **C. An start-up example:**
+     * [Start-up Video](https://www.youtube.com/watch?v=wnHYQ84fk6w&)
      * Select TriECG and TriPPG as sensore boards and choose iOS apps as Software <br>
 	      <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/assembled1_en.png" align="middle"
     alt="Yutech logo" width="400" height=""></code>
