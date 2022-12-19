@@ -128,9 +128,7 @@ This document includes the following content:
  alt="Yutech logo" width="600" height=""></code>
 	* IV. Select `Tools > Port > COMXX (Yutech TriBLE nRF52840)` <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_18.png" align="middle"
  alt="Yutech logo" width="500" height=""></code>
-	* V. Select `Tools > Programmer > DFU for TriBLE nRF52` <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_20.png" align="middle"
-alt="Yutech logo" width="600" height=""></code>
-	* VI. Press <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_upload.png" align="middle"
+	* V. Press <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_upload.png" align="middle"
 alt="Yutech logo" height="18" height=""></code> (Compile + Upload), or press <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_V.png" align="middle"
 alt="Yutech logo" height="18" height=""></code> (Compile), and then press <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_upload.png" align="middle"
 alt="Yutech logo" height="18" height=""></code> (Upload)).
