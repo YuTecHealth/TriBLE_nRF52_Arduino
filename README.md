@@ -135,13 +135,14 @@ alt="Yutech logo" height="18" height=""></code> (Upload)).
 	* **Upload successfully 👋 Shows "Device programmed"** <br>  <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/readme_22.png" align="middle"
     alt="Yutech logo" width="700" height=""></code>
     
-#### **C. TriBLE Laboratory**    
+#### **C. TriBLE Playground**    
 *  __a. Get started:__ [**Install Arduino BSP**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#b-develop-with-trible-nrf52-series-on-arduino-ide) and find the example code. <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/arduino_example.png" align="middle"
     alt="Yutech logo" width="700" height=""></code>
 *  __b. Software display signal:__ 
-	* [**Android SCR Display**](https://github.com/YuTecHealth/TriAnswer-SCR-APP/raw/main/TriAnswer_SCR_newVer_2022.apk) <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/Android_SCR1.jpg" align="middle" 
+	* [**Latest Software Service**](https://github.com/YuTecHealth/Software) 
+	* [**Android SCR Display (End of Life)**](https://github.com/YuTecHealth/TriAnswer-SCR-APP/raw/main/TriAnswer_SCR_newVer_2022.apk) <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/Android_SCR1.jpg" align="middle" 
     alt="Yutech logo" width="300" height=""></code> <br>
-	* [**Web PWA Display**](https://yutechealth.github.io/PWA/LAB5/LAB5.html) <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/PWA1.png" align="middle"
+	* [**Web PWA Display(End of Life)**](https://yutechealth.github.io/PWA/LAB5/LAB5.html) <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/PWA1.png" align="middle"
     alt="Yutech logo" width="700" height=""></code>
 
 #### **Appendix. If you got some trouble... try to renew bootloader!!!!**
