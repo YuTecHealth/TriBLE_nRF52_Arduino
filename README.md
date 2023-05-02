@@ -16,7 +16,7 @@ This document includes the following content:
 	
 	[**B. Develop with TriBLE Arduino IDE**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#2-for-developer-trible-factory-settings-and-usage)
 	
-	[**C. TriBLE Laboratory**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#c-trible-playground)
+	[**C. TriBLE Playground**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#c-trible-playground)
 
  3. [Frequently asked questions **(FAQ)**](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino#3-frequently-asked-questions-faq)
 
