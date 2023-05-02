@@ -144,7 +144,7 @@ alt="Yutech logo" height="18" height=""></code> (Upload)).
     alt="Yutech logo" width="300" height=""></code> <br>
 	* [**Web PWA Display(End of Life)**](https://yutechealth.github.io/PWA/LAB5/LAB5.html) <br> <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/PWA1.png" align="middle"
     alt="Yutech logo" width="700" height=""></code>
-*  __c. Trianswer Eyes control LED Lab (combined with Raspberry Pi 4)__ <br>[(Demo Video)](https://www.youtube.com/watch?v=FJaXFRMbL3Y&) [(Download Resource)](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/blob/master/EOG%E5%B1%95%E7%A4%BA%E7%AF%84%E4%BE%8B.zip) <br> 
+*  __c. Trianswer Eyes control LED Lab (combined with Raspberry Pi 4)__ <br>[(Download Resource)](https://github.com/YuTecHealth/TriBLE_nRF52_Arduino/blob/master/EOG%E5%B1%95%E7%A4%BA%E7%AF%84%E4%BE%8B.zip) <br> [(Demo Video)](https://www.youtube.com/watch?v=FJaXFRMbL3Y&) <br>
 <code><img src="https://github.com/YuTecHealth/YuTecHealth/blob/master/Asset/TriBLE_nRF52_Arduino/EOG_Demo_video.PNG" align="middle"
     alt="Yutech logo" width="700" height=""></code>
 
